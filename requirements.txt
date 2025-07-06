@@ -1,4 +1,0 @@
-aiogram==2.25.2
-feedparser==6.0.10
-aiohttp==3.9.5
-deep-translator==1.11.4
